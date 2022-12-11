@@ -23,3 +23,4 @@ describe('MovieListComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
